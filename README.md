@@ -1,5 +1,6 @@
 # Rock-paper-Scissors-Game
-Its a fun Game. 
+# Its a fun Game.
+
 The players may count aloud to three, or speak the name of the game (e.g. "Rock! Paper! Scissors!"), 
 either raising one hand in a fist and swinging it down with each syllable or holding it behind their back.
 They then "throw" by extending it towards their opponent. 
